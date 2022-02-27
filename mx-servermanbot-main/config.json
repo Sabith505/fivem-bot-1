@@ -1,0 +1,20 @@
+{
+     "token": "",
+     "prefix": "!",
+     "admin_roleid": "",
+     "discord_whitelist": {
+          "active": true,
+          "role_id": "",
+          "server_id": ""
+     },
+     "useQB": true,
+     "old_esx": {
+          "user_accounts": false,
+          "user_inventory": false
+     },
+     "identifier": "license",
+     "wipe_tables": [{
+          "table": "players",
+          "owner": "citizenid"
+     }]
+}
